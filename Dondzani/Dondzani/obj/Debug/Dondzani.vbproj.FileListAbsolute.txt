@@ -1,0 +1,157 @@
+C:\Users\Marcello Muchanga\Desktop\Nelio\Project\Dondzani\Dondzani\bin\Debug\Dondzani.exe.config
+C:\Users\Marcello Muchanga\Desktop\Nelio\Project\Dondzani\Dondzani\bin\Debug\Dondzani.exe
+C:\Users\Marcello Muchanga\Desktop\Nelio\Project\Dondzani\Dondzani\bin\Debug\Dondzani.pdb
+C:\Users\Marcello Muchanga\Desktop\Nelio\Project\Dondzani\Dondzani\bin\Debug\Dondzani.xml
+C:\Users\Marcello Muchanga\Desktop\Nelio\Project\Dondzani\Dondzani\obj\Debug\Dondzani.vbprojResolveAssemblyReference.cache
+C:\Users\Marcello Muchanga\Desktop\Nelio\Project\Dondzani\Dondzani\obj\Debug\Dondzani.Resources.resources
+C:\Users\Marcello Muchanga\Desktop\Nelio\Project\Dondzani\Dondzani\obj\Debug\Dondzani.vbproj.GenerateResource.Cache
+C:\Users\Marcello Muchanga\Desktop\Nelio\Project\Dondzani\Dondzani\obj\Debug\Dondzani.exe
+C:\Users\Marcello Muchanga\Desktop\Nelio\Project\Dondzani\Dondzani\obj\Debug\Dondzani.xml
+C:\Users\Marcello Muchanga\Desktop\Nelio\Project\Dondzani\Dondzani\obj\Debug\Dondzani.pdb
+C:\Users\Marcello Muchanga\Desktop\Nelio\Project\Dondzani\Dondzani\obj\Debug\Dondzani.Login.resources
+C:\Users\Marcello Muchanga\Desktop\Nelio\Project\Dondzani\Dondzani\obj\Debug\Dondzani.Display.resources
+C:\Users\Marcello Muchanga\Desktop\Nelio\Project\Dondzani\Dondzani\obj\Debug\Dondzani.Estudante.resources
+C:\Users\jaime\Documents\Visual Studio 2015\Projects\Dondzani\Dondzani\bin\Debug\Dondzani.exe.config
+C:\Users\jaime\Documents\Visual Studio 2015\Projects\Dondzani\Dondzani\obj\Debug\Dondzani.exe
+C:\Users\jaime\Documents\Visual Studio 2015\Projects\Dondzani\Dondzani\obj\Debug\Dondzani.xml
+C:\Users\jaime\Documents\Visual Studio 2015\Projects\Dondzani\Dondzani\obj\Debug\Dondzani.pdb
+C:\Users\jaime\Documents\Visual Studio 2015\Projects\Dondzani\Dondzani\bin\Debug\Dondzani.exe
+C:\Users\jaime\Documents\Visual Studio 2015\Projects\Dondzani\Dondzani\bin\Debug\Dondzani.pdb
+C:\Users\jaime\Documents\Visual Studio 2015\Projects\Dondzani\Dondzani\bin\Debug\Dondzani.xml
+C:\Users\jaime\Documents\Visual Studio 2015\Projects\Dondzani\Dondzani\obj\Debug\Dondzani.vbprojResolveAssemblyReference.cache
+C:\Users\jaime\Documents\Visual Studio 2015\Projects\Dondzani\Dondzani\obj\Debug\Dondzani.Estudante.resources
+C:\Users\jaime\Documents\Visual Studio 2015\Projects\Dondzani\Dondzani\obj\Debug\Dondzani.Login.resources
+C:\Users\jaime\Documents\Visual Studio 2015\Projects\Dondzani\Dondzani\obj\Debug\Dondzani.Display.resources
+C:\Users\jaime\Documents\Visual Studio 2015\Projects\Dondzani\Dondzani\obj\Debug\Dondzani.Resources.resources
+C:\Users\jaime\Documents\Visual Studio 2015\Projects\Dondzani\Dondzani\obj\Debug\Dondzani.vbproj.GenerateResource.Cache
+C:\Users\Marcello Muchanga\Desktop\Dondzani\Dondzani\Dondzani\bin\Debug\Dondzani.exe.config
+C:\Users\Marcello Muchanga\Desktop\Dondzani\Dondzani\Dondzani\obj\Debug\Dondzani.exe
+C:\Users\Marcello Muchanga\Desktop\Dondzani\Dondzani\Dondzani\obj\Debug\Dondzani.xml
+C:\Users\Marcello Muchanga\Desktop\Dondzani\Dondzani\Dondzani\obj\Debug\Dondzani.pdb
+C:\Users\Marcello Muchanga\Desktop\Dondzani\Dondzani\Dondzani\bin\Debug\Dondzani.exe
+C:\Users\Marcello Muchanga\Desktop\Dondzani\Dondzani\Dondzani\bin\Debug\Dondzani.pdb
+C:\Users\Marcello Muchanga\Desktop\Dondzani\Dondzani\Dondzani\bin\Debug\Dondzani.xml
+C:\Users\Marcello Muchanga\Desktop\Dondzani\Dondzani\Dondzani\obj\Debug\Dondzani.vbprojResolveAssemblyReference.cache
+C:\Users\Marcello Muchanga\Desktop\Dondzani\Dondzani\Dondzani\obj\Debug\Dondzani.Estudante.resources
+C:\Users\Marcello Muchanga\Desktop\Dondzani\Dondzani\Dondzani\obj\Debug\Dondzani.Login.resources
+C:\Users\Marcello Muchanga\Desktop\Dondzani\Dondzani\Dondzani\obj\Debug\Dondzani.Display.resources
+C:\Users\Marcello Muchanga\Desktop\Dondzani\Dondzani\Dondzani\obj\Debug\Dondzani.Resources.resources
+C:\Users\Marcello Muchanga\Desktop\Dondzani\Dondzani\Dondzani\obj\Debug\Dondzani.vbproj.GenerateResource.Cache
+C:\Users\Marcello Muchanga\Desktop\Dondzani\Dondzani\Dondzani\obj\Debug\Dondzani.Pagamento.resources
+C:\Users\jaime\Documents\Visual Studio 2015\Projects\Dondzani\Dondzani\bin\Debug\MySql.Data.dll
+C:\Users\jaime\Documents\Visual Studio 2015\Projects\Dondzani\Dondzani\bin\Debug\Google.Protobuf.dll
+C:\Users\jaime\Documents\Visual Studio 2015\Projects\Dondzani\Dondzani\bin\Debug\ZstdNet.dll
+C:\Users\jaime\Documents\Visual Studio 2015\Projects\Dondzani\Dondzani\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\jaime\Documents\Visual Studio 2015\Projects\Dondzani\Dondzani\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\jaime\Documents\Visual Studio 2015\Projects\Dondzani\Dondzani\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\jaime\Documents\Visual Studio 2015\Projects\Dondzani\Dondzani\bin\Debug\System.Buffers.dll
+C:\Users\jaime\Documents\Visual Studio 2015\Projects\Dondzani\Dondzani\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\jaime\Documents\Visual Studio 2015\Projects\Dondzani\Dondzani\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\jaime\Documents\Visual Studio 2015\Projects\Dondzani\Dondzani\bin\Debug\MySql.Data.xml
+C:\Users\jaime\Documents\Visual Studio 2015\Projects\Dondzani\Dondzani\obj\Debug\Dondzani.vbproj.Dondzani.exe.config
+C:\Users\jaime\Documents\Visual Studio 2015\Projects\Dondzani\Dondzani\obj\Debug\Dondzani.CadastroDeUsuario.resources
+C:\Users\jaime\Documents\Visual Studio 2015\Projects\Dondzani\Dondzani\obj\Debug\Dondzani.Pagamento.resources
+C:\Users\Marcello Muchanga\Desktop\Dondzani\Dondzani\bin\Debug\Dondzani.exe.config
+C:\Users\Marcello Muchanga\Desktop\Dondzani\Dondzani\obj\Debug\Dondzani.exe
+C:\Users\Marcello Muchanga\Desktop\Dondzani\Dondzani\obj\Debug\Dondzani.xml
+C:\Users\Marcello Muchanga\Desktop\Dondzani\Dondzani\obj\Debug\Dondzani.pdb
+C:\Users\Marcello Muchanga\Desktop\Dondzani\Dondzani\bin\Debug\Dondzani.exe
+C:\Users\Marcello Muchanga\Desktop\Dondzani\Dondzani\bin\Debug\Dondzani.pdb
+C:\Users\Marcello Muchanga\Desktop\Dondzani\Dondzani\bin\Debug\Dondzani.xml
+C:\Users\Marcello Muchanga\Desktop\Dondzani\Dondzani\bin\Debug\MySql.Data.dll
+C:\Users\Marcello Muchanga\Desktop\Dondzani\Dondzani\bin\Debug\Google.Protobuf.dll
+C:\Users\Marcello Muchanga\Desktop\Dondzani\Dondzani\bin\Debug\ZstdNet.dll
+C:\Users\Marcello Muchanga\Desktop\Dondzani\Dondzani\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Marcello Muchanga\Desktop\Dondzani\Dondzani\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Marcello Muchanga\Desktop\Dondzani\Dondzani\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Marcello Muchanga\Desktop\Dondzani\Dondzani\bin\Debug\System.Buffers.dll
+C:\Users\Marcello Muchanga\Desktop\Dondzani\Dondzani\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Marcello Muchanga\Desktop\Dondzani\Dondzani\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Marcello Muchanga\Desktop\Dondzani\Dondzani\bin\Debug\MySql.Data.xml
+C:\Users\Marcello Muchanga\Desktop\Dondzani\Dondzani\obj\Debug\Dondzani.vbprojResolveAssemblyReference.cache
+C:\Users\Marcello Muchanga\Desktop\Dondzani\Dondzani\obj\Debug\Dondzani.vbproj.Dondzani.exe.config
+C:\Users\Marcello Muchanga\Desktop\Dondzani\Dondzani\obj\Debug\Dondzani.CadastroDeUsuario.resources
+C:\Users\Marcello Muchanga\Desktop\Dondzani\Dondzani\obj\Debug\Dondzani.Estudante.resources
+C:\Users\Marcello Muchanga\Desktop\Dondzani\Dondzani\obj\Debug\Dondzani.Login.resources
+C:\Users\Marcello Muchanga\Desktop\Dondzani\Dondzani\obj\Debug\Dondzani.Display.resources
+C:\Users\Marcello Muchanga\Desktop\Dondzani\Dondzani\obj\Debug\Dondzani.Resources.resources
+C:\Users\Marcello Muchanga\Desktop\Dondzani\Dondzani\obj\Debug\Dondzani.Pagamento.resources
+C:\Users\Marcello Muchanga\Desktop\Dondzani\Dondzani\obj\Debug\Dondzani.vbproj.GenerateResource.Cache
+C:\Users\Marcello Muchanga\Desktop\backup\Dondzani\Dondzani\bin\Debug\Dondzani.exe.config
+C:\Users\Marcello Muchanga\Desktop\backup\Dondzani\Dondzani\obj\Debug\Dondzani.exe
+C:\Users\Marcello Muchanga\Desktop\backup\Dondzani\Dondzani\obj\Debug\Dondzani.xml
+C:\Users\Marcello Muchanga\Desktop\backup\Dondzani\Dondzani\obj\Debug\Dondzani.pdb
+C:\Users\Marcello Muchanga\Desktop\backup\Dondzani\Dondzani\bin\Debug\Dondzani.exe
+C:\Users\Marcello Muchanga\Desktop\backup\Dondzani\Dondzani\bin\Debug\Dondzani.pdb
+C:\Users\Marcello Muchanga\Desktop\backup\Dondzani\Dondzani\bin\Debug\Dondzani.xml
+C:\Users\Marcello Muchanga\Desktop\backup\Dondzani\Dondzani\bin\Debug\MySql.Data.dll
+C:\Users\Marcello Muchanga\Desktop\backup\Dondzani\Dondzani\bin\Debug\Google.Protobuf.dll
+C:\Users\Marcello Muchanga\Desktop\backup\Dondzani\Dondzani\bin\Debug\ZstdNet.dll
+C:\Users\Marcello Muchanga\Desktop\backup\Dondzani\Dondzani\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Marcello Muchanga\Desktop\backup\Dondzani\Dondzani\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Marcello Muchanga\Desktop\backup\Dondzani\Dondzani\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Marcello Muchanga\Desktop\backup\Dondzani\Dondzani\bin\Debug\System.Buffers.dll
+C:\Users\Marcello Muchanga\Desktop\backup\Dondzani\Dondzani\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Marcello Muchanga\Desktop\backup\Dondzani\Dondzani\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Marcello Muchanga\Desktop\backup\Dondzani\Dondzani\bin\Debug\MySql.Data.xml
+C:\Users\Marcello Muchanga\Desktop\backup\Dondzani\Dondzani\obj\Debug\Dondzani.vbprojResolveAssemblyReference.cache
+C:\Users\Marcello Muchanga\Desktop\backup\Dondzani\Dondzani\obj\Debug\Dondzani.vbproj.Dondzani.exe.config
+C:\Users\Marcello Muchanga\Desktop\backup\Dondzani\Dondzani\obj\Debug\Dondzani.CadastroDeUsuario.resources
+C:\Users\Marcello Muchanga\Desktop\backup\Dondzani\Dondzani\obj\Debug\Dondzani.Estudante.resources
+C:\Users\Marcello Muchanga\Desktop\backup\Dondzani\Dondzani\obj\Debug\Dondzani.Login.resources
+C:\Users\Marcello Muchanga\Desktop\backup\Dondzani\Dondzani\obj\Debug\Dondzani.Display.resources
+C:\Users\Marcello Muchanga\Desktop\backup\Dondzani\Dondzani\obj\Debug\Dondzani.Resources.resources
+C:\Users\Marcello Muchanga\Desktop\backup\Dondzani\Dondzani\obj\Debug\Dondzani.Pagamento.resources
+C:\Users\Marcello Muchanga\Desktop\backup\Dondzani\Dondzani\obj\Debug\Dondzani.ViewUser.resources
+C:\Users\Marcello Muchanga\Desktop\backup\Dondzani\Dondzani\obj\Debug\Dondzani.vbproj.GenerateResource.Cache
+C:\Users\jaime\Documents\Visual Studio 2015\Projects\Dondzani\Dondzani\obj\Debug\Dondzani.ViewUser.resources
+C:\Users\jaime\Documents\Visual Studio 2015\Projects\Dondzani\Dondzani\obj\Debug\Dondzani.BasicViewUser.resources
+C:\Users\Marcello Muchanga\Desktop\Dondzani\Dondzani\obj\Debug\Dondzani.BasicViewUser.resources
+C:\Users\Marcello Muchanga\Desktop\Dondzani\Dondzani\obj\Debug\Dondzani.ViewUser.resources
+C:\Users\jaime\Documents\Visual Studio 2015\Projects\Dondzani\Dondzani\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\jaime\Documents\Visual Studio 2015\Projects\Dondzani\Dondzani\obj\Debug\Dondzani.CirclePictireBox.resources
+C:\Users\Marcello Muchanga\Desktop\Dondzani\Dondzani\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\Marcello Muchanga\Desktop\Dondzani\Dondzani\obj\Debug\Dondzani.CirclePictireBox.resources
+C:\Users\Marcello Muchanga\Desktop\Dondzani\Dondzani\obj\Debug\Dondzani.Fatura.resources
+C:\Users\jaime\Desktop\Dondzani\Dondzani\bin\Debug\Dondzani.exe.config
+C:\Users\jaime\Desktop\Dondzani\Dondzani\obj\Debug\Dondzani.exe
+C:\Users\jaime\Desktop\Dondzani\Dondzani\obj\Debug\Dondzani.xml
+C:\Users\jaime\Desktop\Dondzani\Dondzani\obj\Debug\Dondzani.pdb
+C:\Users\jaime\Documents\Visual Studio 2015\Projects\Dondzani\Dondzani\obj\Debug\Dondzani.Fatura.resources
+C:\Users\Marcello Muchanga\Desktop\Dondzani\Dondzani\obj\Debug\Dondzani.Visualizar_estudantes.resources
+C:\Users\jaime\Desktop\Dondzani\Dondzani\Dondzani\bin\Debug\Dondzani.exe.config
+C:\Users\jaime\Desktop\Dondzani\Dondzani\Dondzani\obj\Debug\Dondzani.exe
+C:\Users\jaime\Desktop\Dondzani\Dondzani\Dondzani\obj\Debug\Dondzani.xml
+C:\Users\jaime\Desktop\Dondzani\Dondzani\Dondzani\obj\Debug\Dondzani.pdb
+C:\Users\jaime\Documents\Visual Studio 2015\Projects\Dondzani\Dondzani\Dondzani\bin\Debug\Dondzani.exe.config
+C:\Users\jaime\Documents\Visual Studio 2015\Projects\Dondzani\Dondzani\Dondzani\obj\Debug\Dondzani.exe
+C:\Users\jaime\Documents\Visual Studio 2015\Projects\Dondzani\Dondzani\Dondzani\obj\Debug\Dondzani.xml
+C:\Users\jaime\Documents\Visual Studio 2015\Projects\Dondzani\Dondzani\Dondzani\obj\Debug\Dondzani.pdb
+C:\Users\jaime\Documents\Visual Studio 2015\Projects\Dondzani\Dondzani\Dondzani\bin\Debug\Dondzani.exe
+C:\Users\jaime\Documents\Visual Studio 2015\Projects\Dondzani\Dondzani\Dondzani\bin\Debug\Dondzani.pdb
+C:\Users\jaime\Documents\Visual Studio 2015\Projects\Dondzani\Dondzani\Dondzani\bin\Debug\Dondzani.xml
+C:\Users\jaime\Documents\Visual Studio 2015\Projects\Dondzani\Dondzani\Dondzani\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\jaime\Documents\Visual Studio 2015\Projects\Dondzani\Dondzani\Dondzani\bin\Debug\MySql.Data.dll
+C:\Users\jaime\Documents\Visual Studio 2015\Projects\Dondzani\Dondzani\Dondzani\bin\Debug\Google.Protobuf.dll
+C:\Users\jaime\Documents\Visual Studio 2015\Projects\Dondzani\Dondzani\Dondzani\bin\Debug\ZstdNet.dll
+C:\Users\jaime\Documents\Visual Studio 2015\Projects\Dondzani\Dondzani\Dondzani\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\jaime\Documents\Visual Studio 2015\Projects\Dondzani\Dondzani\Dondzani\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\jaime\Documents\Visual Studio 2015\Projects\Dondzani\Dondzani\Dondzani\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\jaime\Documents\Visual Studio 2015\Projects\Dondzani\Dondzani\Dondzani\bin\Debug\System.Buffers.dll
+C:\Users\jaime\Documents\Visual Studio 2015\Projects\Dondzani\Dondzani\Dondzani\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\jaime\Documents\Visual Studio 2015\Projects\Dondzani\Dondzani\Dondzani\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\jaime\Documents\Visual Studio 2015\Projects\Dondzani\Dondzani\Dondzani\bin\Debug\MySql.Data.xml
+C:\Users\jaime\Documents\Visual Studio 2015\Projects\Dondzani\Dondzani\Dondzani\obj\Debug\Dondzani.vbprojResolveAssemblyReference.cache
+C:\Users\jaime\Documents\Visual Studio 2015\Projects\Dondzani\Dondzani\Dondzani\obj\Debug\Dondzani.vbproj.Dondzani.exe.config
+C:\Users\jaime\Documents\Visual Studio 2015\Projects\Dondzani\Dondzani\Dondzani\obj\Debug\Dondzani.BasicViewUser.resources
+C:\Users\jaime\Documents\Visual Studio 2015\Projects\Dondzani\Dondzani\Dondzani\obj\Debug\Dondzani.CadastroDeUsuario.resources
+C:\Users\jaime\Documents\Visual Studio 2015\Projects\Dondzani\Dondzani\Dondzani\obj\Debug\Dondzani.CirclePictireBox.resources
+C:\Users\jaime\Documents\Visual Studio 2015\Projects\Dondzani\Dondzani\Dondzani\obj\Debug\Dondzani.Estudante.resources
+C:\Users\jaime\Documents\Visual Studio 2015\Projects\Dondzani\Dondzani\Dondzani\obj\Debug\Dondzani.Fatura.resources
+C:\Users\jaime\Documents\Visual Studio 2015\Projects\Dondzani\Dondzani\Dondzani\obj\Debug\Dondzani.Login.resources
+C:\Users\jaime\Documents\Visual Studio 2015\Projects\Dondzani\Dondzani\Dondzani\obj\Debug\Dondzani.Display.resources
+C:\Users\jaime\Documents\Visual Studio 2015\Projects\Dondzani\Dondzani\Dondzani\obj\Debug\Dondzani.Resources.resources
+C:\Users\jaime\Documents\Visual Studio 2015\Projects\Dondzani\Dondzani\Dondzani\obj\Debug\Dondzani.Pagamento.resources
+C:\Users\jaime\Documents\Visual Studio 2015\Projects\Dondzani\Dondzani\Dondzani\obj\Debug\Dondzani.ViewUser.resources
+C:\Users\jaime\Documents\Visual Studio 2015\Projects\Dondzani\Dondzani\Dondzani\obj\Debug\Dondzani.Visualizar_estudantes.resources
+C:\Users\jaime\Documents\Visual Studio 2015\Projects\Dondzani\Dondzani\Dondzani\obj\Debug\Dondzani.vbproj.GenerateResource.Cache
